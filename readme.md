@@ -2,8 +2,7 @@
 
 
 ## Requirements
-Apache
-Node JS >=v14.x
+`Apache`, `NodeJS` >=v14.x
 
 ## Installation
 
