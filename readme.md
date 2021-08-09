@@ -9,7 +9,7 @@
 - Clone the repository
 - Open a terminal in directory cloned and install websocket `NodeJS`
 ```
-$ npm install websocket
+npm install websocket
 ```
 - Edit the hostname in the file **config.js**
 ```
